@@ -1,1 +1,1 @@
-Esto es una prueba de que no se usar Git :(
+Ahora ya se usar Git :)
